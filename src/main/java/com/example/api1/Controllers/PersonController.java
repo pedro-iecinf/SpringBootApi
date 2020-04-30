@@ -13,7 +13,6 @@ import java.util.List;
 
 public class PersonController {
 
-    //@GetMapping("/a")
     @GetMapping
     public List<Person> get() {
 
